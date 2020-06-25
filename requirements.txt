@@ -39,7 +39,7 @@ deprecation==2.0.7
 dicttoxml==1.7.4
 distlib==0.3.0
 distro==1.3.0
-Django==1.11.23
+Django==1.11.29
 dnslib==0.9.12
 dnspython==1.16.0
 ecdsa==0.14.1
