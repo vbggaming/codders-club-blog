@@ -89,7 +89,7 @@ hyperframe==5.2.0
 hyperlink==19.0.0
 icalendar==4.0.3
 idna==2.6
-impacket==0.9.20
+impacket==0.9.23
 importlib-metadata==1.6.1
 incremental==16.10.1
 IPy==1.0
