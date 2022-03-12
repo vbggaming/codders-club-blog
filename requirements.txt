@@ -143,7 +143,7 @@ patator==0.7
 pefile==2019.4.18
 pexpect==4.6.0
 pickleshare==0.7.5
-Pillow==6.2.1
+Pillow==9.0.1
 plaster==1.0
 plaster-pastedeploy==0.5
 plotly==4.4.1
